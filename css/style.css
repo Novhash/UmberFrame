@@ -37,6 +37,121 @@
 
 ---------------------------------------------------------------- */
 /* ====================== [ Start Typography  ] ====================== */
+
+.whatsapp{
+    
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    height: 100px;
+    width: 100px;
+}
+
+.work approach{
+    
+    float: right;
+    padding: 10px;
+    
+}
+
+.work approach,img{
+    height: 10px;
+    width: 10px;
+    padding: 20px;
+}
+
+.work approach,h4{
+    text-align: center;
+}
+
+.icon1{
+    
+    height: 10%;
+    width: 10%;
+    padding: 40px;
+}
+
+.icon2{
+    
+    height: 10%;
+    width: 10%;
+    padding: 40px;
+}
+
+
+.icon3{
+    
+    height: 10%;
+    width: 10%;
+    padding: 40px;
+}
+
+
+.icon4{
+    
+    height: 10%;
+    width: 10%;
+    padding: 40px;
+}
+
+.icon5{
+    
+    height: 10%;
+    width: 10%;
+    padding: 40px;
+}
+
+.icon6{
+    
+    height: 10%;
+    width: 10%;
+    padding: 40px;
+}
+
+.icon7{
+    
+    height: 12%;
+    width: 12%;
+    padding: 40px;
+}
+
+.icon8{
+    
+    height: 10%;
+    width: 10%;
+    padding: 40px;
+}
+
+
+
+.icon9{
+    
+    height: 10%;
+    width: 10%;
+    padding: 40px;
+}
+
+.icon10{
+    
+    height: 11%;
+    width: 11%;
+    padding: 40px;
+}
+
+.icon10{
+    
+    height: 11%;
+    width: 11%;
+    padding: 40px;
+}
+
+.icon11{
+    
+    height: 11%;
+    width: 11%;
+    padding: 40px;
+}
+
 * {
   margin: 0;
   padding: 0;
